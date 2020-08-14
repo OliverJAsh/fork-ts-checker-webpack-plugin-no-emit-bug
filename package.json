@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/lodash": "^4.14.159",
+    "fork-ts-checker-webpack-plugin": "^5.0.14",
+    "lodash": "^4.17.20",
+    "ts-loader": "^8.0.2",
+    "typescript": "^3.9.7",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
